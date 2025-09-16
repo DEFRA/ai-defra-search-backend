@@ -65,7 +65,7 @@ services:
   #   networks:
   #     - cdp-tenant
 
-  cdp-node-backend-template:
+  ai-defra-search-backend:
     build:
       context: .
       target: development
